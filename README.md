@@ -2,7 +2,7 @@
 - 💻I’m a Web Developer with experience in front-end and back-end technologies. Passionate about building creative and functional web applications.
 - ❤️I love working on innovative projects and learning new technologies.
 - 👀 I’m interested in creating websites and web applications that are both functional and visually appealing.
-- 🌱 I’m currently working on enhancing my skills in Node.js, Express.js, and MongoDB.
+- 🌱 I’m currently working on enhancing my skills in Full Stack Web Developer.
   <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 You can reach me via Email [k.himanshi02@gmail.com]and linkedin [https://www.linkedin.com/in/himanshi-khattri02/]
 - 👤 Follow me on Instagram and show your love and support [https://www.instagram.com/_codeamour/] 
