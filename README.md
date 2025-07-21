@@ -12,7 +12,7 @@
 
 ### 🚀 Technologies & Tools
 
-- **Languages:** JavaScript, HTML, CSS, node.js, C etc.
+- **Languages:** JavaScript, HTML, CSS, node.js, C etc. ?i=js,html,css
 - **Frameworks & Libraries:**  EJS ,Express, bootstrap, Tailwind CSS etc.
 - **Databases:** MongoDB, MySQL, etc.
 - **tools:** Git & Github, VSCode , Sublime etc.
@@ -22,3 +22,4 @@ Here are a few of my key projects:
 1. Cricket league website (https://lit20.com/) - I created a Cricket League Website that features a comprehensive points table, fixtures, and team details. <br>It's built with a focus on delivering a seamless user experience and providing up-to-date information.<br>
 2.Some of other projects i'll posted very soon.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
