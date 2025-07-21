@@ -12,10 +12,14 @@
 
 ### 🚀 Technologies & Tools
 
-- **Languages:**  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,jquery,nodejs,py,express)](https://skillicons.dev)
-- **Frameworks & Libraries:**  [![My Skills](https://skillicons.dev/icons?i=bootstrap,npm,pug,react,sass,less,tailwind,fastapi)](https://skillicons.dev)
-- **Databases:** [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,sqlite,supabase,sequelize)](https://skillicons.dev) 
-- **tools:**[![My Skills](https://skillicons.dev/icons?i= vscode,git,github,heroku,figma,gmail,ai,netlify,ps,postman,sublime,ubuntu,vercel,windows,codepen,bash)](https://skillicons.dev)
+- **Languages:**
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,jquery,nodejs,express,py)](https://skillicons.dev)
+- **Frameworks & Libraries:**
+- [![My Skills](https://skillicons.dev/icons?i=bootstrap,npm,pug,react,sass,less,tailwind,fastapi)](https://skillicons.dev)
+- **Databases:**
+- [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,sqlite,supabase,sequelize)](https://skillicons.dev) 
+- **tools and package manager:**
+- [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,heroku,figma,gmail,ai,netlify,ps,postman,sublime,ubuntu,vercel,windows,codepen,bash)](https://skillicons.dev)
 
 ### 🛠 Projects
 Here are a few of my key projects:
