@@ -12,14 +12,14 @@
 
 ### 🚀 Technologies & Tools
 
-- **Languages:** JavaScript, HTML, CSS, node.js, C etc. ?i=js,html,css
-- **Frameworks & Libraries:**  EJS ,Express, bootstrap, Tailwind CSS etc.
-- **Databases:** MongoDB, MySQL, etc.
-- **tools:** Git & Github, VSCode , Sublime etc.
+- **Languages:**  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)?i=js,html,css,c,jquery,nodejs,py,express
+- **Frameworks & Libraries:**  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)?i=bootstrap,npm,pug,react,sass,less,tailwind,fastapi
+- **Databases:** [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) ?i=mongodb,mysql,postgres,prisma,sqlite,supabase,sequelize
+- **tools:**[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)?i= vscode,git,github,heroku,figma,gmail,ai,netlify,ps,postman,sublime,ubuntu,vercel,windows,codepen,bash
 
 ### 🛠 Projects
 Here are a few of my key projects:
 1. Cricket league website (https://lit20.com/) - I created a Cricket League Website that features a comprehensive points table, fixtures, and team details. <br>It's built with a focus on delivering a seamless user experience and providing up-to-date information.<br>
 2.Some of other projects i'll posted very soon.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
