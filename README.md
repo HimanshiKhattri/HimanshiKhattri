@@ -1,5 +1,5 @@
 # Hi there! , I’m Himanshi Khattri.👋
-![Developer Illustration](./images/about.png)
+![Developer Illustration](./images/about1.png)
 
 
 #About Me: 
