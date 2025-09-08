@@ -2,7 +2,7 @@
 ![Developer Illustration](./about1.png)
 
 
-##About Me: 
+**About Me:** 
 - 💻I’m a Web Developer with experience in front-end and back-end technologies. Passionate about building creative and functional web applications.
 - ❤️I love working on innovative projects and learning new technologies.
 - 👀 I’m interested in creating websites and web applications that are both functional and visually appealing.
