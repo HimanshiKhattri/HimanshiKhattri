@@ -37,7 +37,7 @@
 
 [![Linked In](https://img.shields.io/badge/LINKED_IN-black?style=for-the-badge&logo=logmein)](https://www.linkedin.com/in/himanshi-khattri-b102a4271/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-blue?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/_codeamour/)
-[![Gmail](https://img.shields.io/badge/GMAIL-yellow?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![Gmail](https://img.shields.io/badge/GMAIL-yellow?style=for-the-badge&logo=gmail)](https://mail.google.com/mail)
 [![GitHub](https://img.shields.io/badge/GITHUB-violet?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HimanshiKhattri)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-indigo?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@codeAmour7)
 
