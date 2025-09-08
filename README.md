@@ -1,6 +1,7 @@
 # Hi there! , I’m Himanshi Khattri.👋
 
-![about me image](images/about.png)
+![Developer Illustration](./images/about.png)
+
 
 #About Me: 
 - 💻I’m a Web Developer with experience in front-end and back-end technologies. Passionate about building creative and functional web applications.
